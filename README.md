@@ -1,7 +1,7 @@
 ## Project Report
 This repository contains the study notes and practical exercises consolidated in the technical ethical hacking report:
 
-📄 **[InformeTecnico_Raul_Blázquez_Mir.pdf](./InformeTecnico_Raul_Bl%C3%A1zquez_Mir.pdf)**
+Final_Project_Raul_Blázquez.pdf
 
 ### Overview
 - **Target Audit:** External pentest on `tokiohacking.com` using Kali Linux & Docker.
